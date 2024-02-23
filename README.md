@@ -1,2 +1,2 @@
 # ProjectGame
-2D-Game on Unity for Project Practicum
+2D-Игра на Unity в жанре Roguelike для проектного практикума
